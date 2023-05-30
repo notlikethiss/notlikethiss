@@ -1,9 +1,6 @@
 <h1>Hello there</h1>
-I'm Front-end developer
-
-<p>There is most used lang's</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notlikethiss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  I'm Front-end developer from Russia <br>
+  Inspired by writing code and progressing every year
 
 <h1>My skills</h1>
 
