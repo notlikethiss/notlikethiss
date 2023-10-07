@@ -1,6 +1,6 @@
 <h1>Hello there</h1>
-  I'm Front-end developer from Russia <br>
-  Inspired by writing code and progressing every year
+  🪄I'm Front-end developer from Russia <br>
+  💫Inspired by writing code and progressing every year
 
 <h1>My skills</h1>
 
