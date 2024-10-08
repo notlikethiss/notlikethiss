@@ -1,6 +1,5 @@
 <h1>Hello there</h1>
-  🪄 I'm Front-end Developer <br>
-  💫 Inspired by writing code and improving my skill
+  🪄 I'm Front-end Developer & little bit C++ dev <br>
 
 <h1>My skills</h1>
 
