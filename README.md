@@ -1,5 +1,5 @@
 <h1>👋🏻 Hello there!</h1>
-  I'm Fullstack web3 engineer on JS/TS/C++ <br>
+ Fullstack Developer on JS/TS/C++ <br>
 <h1>My skills</h1>
 
 <b>Languages</b>
